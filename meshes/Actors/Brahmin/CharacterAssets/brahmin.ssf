@@ -1,0 +1,52 @@
+{
+   "BodyCap01:0" : {
+      "BaseBoneName" : "DISABLED"
+   },
+   "BodyCap02:0" : {
+      "BaseBoneName" : "DISABLED"
+   },
+   "BrahminNoHornBase:0" : {
+      "BaseBoneName" : "DISABLED",
+      "DeltaBones" : [
+         {
+            "BoneDeltaList" : [ 393728, 393472 ],
+            "BoneName" : "RLeg2"
+         },
+         {
+            "BoneDeltaList" : [ 459264, 459008 ],
+            "BoneName" : "RArm2"
+         },
+         {
+            "BoneDeltaList" : [ 262656, 262400 ],
+            "BoneName" : "LArm2"
+         },
+         {
+            "BoneDeltaList" : [ 328192, 327936 ],
+            "BoneName" : "LLeg2"
+         },
+         {
+            "BoneDeltaList" : [ 460032, 459776 ],
+            "BoneName" : "RArm3"
+         },
+         {
+            "BoneDeltaList" : [ 394496, 394752, 394240 ],
+            "BoneName" : "RLeg3"
+         },
+         {
+            "BoneDeltaList" : [ 328960, 329216, 328704 ],
+            "BoneName" : "LLeg3"
+         },
+         {
+            "BoneDeltaList" : [ 263424, 263168 ],
+            "BoneName" : "LArm3"
+         }
+      ],
+      "uiNumDeltas" : 18
+   },
+   "HeadCap01:0" : {
+      "BaseBoneName" : "DISABLED"
+   },
+   "HeadCap02:0" : {
+      "BaseBoneName" : "DISABLED"
+   }
+}
