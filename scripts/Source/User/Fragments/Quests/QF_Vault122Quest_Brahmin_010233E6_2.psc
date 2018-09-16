@@ -6,6 +6,16 @@ Function Fragment_Stage_0010_Item_00()
 ;BEGIN CODE
 Actor PlayerREF = Game.GetPlayer()
 PlayerREF.AddItem(EmptyBloodVile,2)
+PlayerREF.AddPerk(BloodCollectingPerk)
+;END CODE
+EndFunction
+;END FRAGMENT
+
+;BEGIN FRAGMENT Fragment_Stage_0020_Item_00
+Function Fragment_Stage_0020_Item_00()
+;BEGIN CODE
+Actor PlayerREF = Game.GetPlayer()
+PlayerREF.RemovePerk(BloodCollectingPerk)
 ;END CODE
 EndFunction
 ;END FRAGMENT
@@ -13,3 +23,5 @@ EndFunction
 ;END FRAGMENT CODE - Do not edit anything between this and the begin comment
 
 MiscObject Property EmptyBloodVile Auto Const
+
+Perk Property BloodCollectingPerk Auto Const
