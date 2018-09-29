@@ -28,3 +28,15 @@ MiscObject Property BloodVile Auto Const
 Int Property Brahmin01BloodCollected Auto Conditional
 
 Int Property Brahmin02BloodCollected Auto Conditional
+
+GlobalVariable Property Vault122BrahminHemodialyticCount Auto Const
+
+GlobalVariable Property Vault122BrahminHemodialyticTotal Auto Const
+
+Function HemodialyticCrafted()
+	If ModObjectiveGlobal(1, Vault122BrahminHemodialyticCount, 40,  Vault122BrahminHemodialyticTotal.value)
+		SetStage(50)
+		SetObjectiveCompleted(40)
+		SetObjectiveDisplayed(50)
+	EndIf
+EndFunction

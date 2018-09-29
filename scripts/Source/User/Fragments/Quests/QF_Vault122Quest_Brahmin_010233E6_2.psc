@@ -20,6 +20,42 @@ PlayerREF.RemovePerk(BloodCollectingPerk)
 EndFunction
 ;END FRAGMENT
 
+;BEGIN FRAGMENT Fragment_Stage_0030_Item_00
+Function Fragment_Stage_0030_Item_00()
+;BEGIN CODE
+SetObjectiveCompleted(20)
+SetObjectiveDisplayed(30)
+;END CODE
+EndFunction
+;END FRAGMENT
+
+;BEGIN FRAGMENT Fragment_Stage_0040_Item_00
+Function Fragment_Stage_0040_Item_00()
+;BEGIN CODE
+SetObjectiveCompleted(30)
+SetObjectiveDisplayed(40)
+;END CODE
+EndFunction
+;END FRAGMENT
+
+;BEGIN FRAGMENT Fragment_Stage_0060_Item_00
+Function Fragment_Stage_0060_Item_00()
+;BEGIN CODE
+SetObjectiveCompleted(50)
+SetObjectiveDisplayed(60)
+;END CODE
+EndFunction
+;END FRAGMENT
+
+;BEGIN FRAGMENT Fragment_Stage_0070_Item_00
+Function Fragment_Stage_0070_Item_00()
+;BEGIN CODE
+SetObjectiveCompleted(60)
+SetObjectiveDisplayed(70)
+;END CODE
+EndFunction
+;END FRAGMENT
+
 ;END FRAGMENT CODE - Do not edit anything between this and the begin comment
 
 MiscObject Property EmptyBloodVile Auto Const
