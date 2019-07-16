@@ -1,6 +1,0 @@
-Scriptname tpBulletPressAmmoSCRIPT extends Terminal
-
-AMMO PROPERTY Ammo10mm AUTO
-AMMO PROPERTY Ammo22Caliber AUTO
-AMMO PROPERTY Ammo32Caliber AUTO 
-AMMO PROPERTY Ammo556 AUTO

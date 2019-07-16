@@ -1,1 +1,0 @@
-Scriptname CA_Interjection_Hates_Hancock extends CA_Interjection_Hates Const

@@ -1,1 +1,0 @@
-Scriptname CA_Interjection_Likes_Danse extends CA_Interjection_Likes Const

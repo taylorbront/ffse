@@ -1,1 +1,0 @@
-Scriptname DefaultAliasOnDeathA extends DefaultAliasOnDeath Const

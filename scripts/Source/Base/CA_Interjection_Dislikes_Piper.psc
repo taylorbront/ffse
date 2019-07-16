@@ -1,1 +1,0 @@
-Scriptname CA_Interjection_Dislikes_Piper extends CA_Interjection_Dislikes Const

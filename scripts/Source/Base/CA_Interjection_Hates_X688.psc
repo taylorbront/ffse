@@ -1,1 +1,0 @@
-Scriptname CA_Interjection_Hates_X688 extends CA_Interjection_Hates Const

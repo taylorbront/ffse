@@ -1,1 +1,0 @@
-Scriptname GlowingSea extends ObjectReference Const

@@ -1,3 +1,0 @@
-Scriptname FFDiamondCity02Script extends Quest Conditional
-
-Int Property SweepDone auto Conditional

@@ -1,4 +1,0 @@
-Scriptname DogmeatFaceAliasScript extends ReferenceAlias
-
-
-;FUNCTIONALITY MOVED TO DogmeatAliasCombatStateFaceScript on Followers quest

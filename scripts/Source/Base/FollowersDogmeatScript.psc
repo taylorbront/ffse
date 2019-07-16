@@ -1,3 +1,0 @@
-Scriptname FollowersDogmeatScript extends ReferenceAlias
-
-;OBSOLETE

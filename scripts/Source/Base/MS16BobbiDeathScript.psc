@@ -1,1 +1,0 @@
-Scriptname MS16BobbiDeathScript extends ReferenceAlias

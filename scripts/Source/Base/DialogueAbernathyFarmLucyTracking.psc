@@ -1,1 +1,0 @@
-Scriptname DialogueAbernathyFarmLucyTracking extends Quest Conditional

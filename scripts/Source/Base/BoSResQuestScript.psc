@@ -1,1 +1,0 @@
-Scriptname BoSResQuestScript extends Quest

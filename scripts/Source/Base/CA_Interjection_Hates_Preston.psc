@@ -1,1 +1,0 @@
-Scriptname CA_Interjection_Hates_Preston extends CA_Interjection_Hates Const

@@ -1,3 +1,0 @@
-Scriptname DialogueSwansPondScript extends Quest Conditional
-
-Int Property nTourBotWallahID Auto Conditional

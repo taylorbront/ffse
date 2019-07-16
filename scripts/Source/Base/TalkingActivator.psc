@@ -1,1 +1,0 @@
-Scriptname TalkingActivator extends Activator Native Hidden

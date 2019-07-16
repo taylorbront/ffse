@@ -1,1 +1,0 @@
-Scriptname WorkshopActorCollectionScript extends RefCollectionAlias Const

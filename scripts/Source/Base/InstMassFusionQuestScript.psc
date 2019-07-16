@@ -1,3 +1,0 @@
-Scriptname InstMassFusionQuestScript extends Quest Conditional
-
-Int Property FilmoreEndConversation Auto Conditional

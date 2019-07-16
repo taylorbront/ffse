@@ -1,1 +1,0 @@
-Scriptname NumberPuzzleDummyTrigger extends ObjectReference Const

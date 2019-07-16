@@ -1,1 +1,0 @@
-Scriptname COMMacCreadyScript extends Quest Conditional

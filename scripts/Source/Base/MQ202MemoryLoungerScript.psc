@@ -1,1 +1,0 @@
-Scriptname MQ202MemoryLoungerScript extends ReferenceAlias

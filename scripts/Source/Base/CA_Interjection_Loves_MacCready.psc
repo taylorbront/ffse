@@ -1,1 +1,0 @@
-Scriptname CA_Interjection_Loves_MacCready extends CA_Interjection_Loves Const

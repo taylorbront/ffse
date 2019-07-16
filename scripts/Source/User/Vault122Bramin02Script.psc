@@ -1,1 +1,0 @@
-Scriptname Vault122Bramin02Script extends Actor Conditional

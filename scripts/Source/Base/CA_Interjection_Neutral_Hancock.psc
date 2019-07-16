@@ -1,1 +1,0 @@
-Scriptname CA_Interjection_Neutral_Hancock extends TopicInfo Const

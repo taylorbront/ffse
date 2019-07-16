@@ -1,1 +1,0 @@
-Scriptname CA_Interjection_Likes_Valentine extends CA_Interjection_Likes Const

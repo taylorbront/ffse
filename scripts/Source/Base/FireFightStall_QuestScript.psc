@@ -1,5 +1,0 @@
-Scriptname FireFightStall_QuestScript extends Quest
-
-GlobalVariable[] Property FireFightStallGlobals Auto Const
-
-LocationAlias Property DiamondCityExtSuperMutantPOILoc_Alias Auto Const

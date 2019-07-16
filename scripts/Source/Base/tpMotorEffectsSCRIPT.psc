@@ -1,2 +1,0 @@
-Scriptname tpMotorEffectsSCRIPT extends ActiveMagicEffect
-
