@@ -1,0 +1,1 @@
+Scriptname Vlt122TestDeleteMeScript extends ObjectReference
