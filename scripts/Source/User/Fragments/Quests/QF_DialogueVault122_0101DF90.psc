@@ -5,7 +5,7 @@ Scriptname Fragments:Quests:QF_DialogueVault122_0101DF90 Extends Quest Hidden Co
 Function Fragment_Stage_0010_Item_00()
 ;BEGIN CODE
 Actor PlayerREF = Game.GetPlayer()
-PlayerREF.AddItem(caps002,1000)
+PlayerREF.AddItem(caps002,2000)
 SetObjectiveDisplayed(10)
 ;END CODE
 EndFunction
